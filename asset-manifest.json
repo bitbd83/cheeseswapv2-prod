@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "./static/js/main.d9c063e0.chunk.js",
+    "main.js": "./static/js/main.571ddc2c.chunk.js",
     "runtime-main.js": "./static/js/runtime-main.6424fa90.js",
     "static/css/2.5aa401b8.chunk.css": "./static/css/2.5aa401b8.chunk.css",
     "static/js/2.d979dc11.chunk.js": "./static/js/2.d979dc11.chunk.js",
@@ -14,7 +14,7 @@
     "static/js/10.ea13be1c.chunk.js": "./static/js/10.ea13be1c.chunk.js",
     "static/js/11.bf7de335.chunk.js": "./static/js/11.bf7de335.chunk.js",
     "index.html": "./index.html",
-    "precache-manifest.7260b02fc02145143c5ffba1c46c51b3.js": "./precache-manifest.7260b02fc02145143c5ffba1c46c51b3.js",
+    "precache-manifest.5042f0fc87bb2922983c93be60149507.js": "./precache-manifest.5042f0fc87bb2922983c93be60149507.js",
     "service-worker.js": "./service-worker.js",
     "static/js/2.d979dc11.chunk.js.LICENSE.txt": "./static/js/2.d979dc11.chunk.js.LICENSE.txt",
     "static/media/inter.css": "./static/media/Inter.var.8dd26c3d.woff2",
@@ -31,14 +31,11 @@
     "static/media/circle.svg": "./static/media/circle.f1aad185.svg",
     "static/media/cmc.png": "./static/media/cmc.a72a0e25.png",
     "static/media/coinbaseWalletIcon.svg": "./static/media/coinbaseWalletIcon.0d3ecc8a.svg",
-    "static/media/discord.png": "./static/media/discord.18a34a38.png",
     "static/media/dropdown-blue.svg": "./static/media/dropdown-blue.7ada1115.svg",
     "static/media/dropdown.svg": "./static/media/dropdown.32b15d66.svg",
     "static/media/dropup-blue.svg": "./static/media/dropup-blue.f545db69.svg",
-    "static/media/email.png": "./static/media/email.7e0ef768.png",
-    "static/media/fantomWallet.png": "./static/media/fantomWallet.96dbea58.png",
+    "static/media/injected.png": "./static/media/injected.7a34eb81.png",
     "static/media/injected.svg": "./static/media/injected.9d34ded5.svg",
-    "static/media/injected.png": "./static/media/injected.e164eed8.png",
     "static/media/ipfs.svg": "./static/media/ipfs.8cd2ed47.svg",
     "static/media/link.svg": "./static/media/link.b798901b.svg",
     "static/media/magnifying-glass.svg": "./static/media/magnifying-glass.c363eccf.svg",
@@ -49,7 +46,6 @@
     "static/media/question-mark.svg": "./static/media/question-mark.d6589d7f.svg",
     "static/media/question.svg": "./static/media/question.e789b003.svg",
     "static/media/spinner.svg": "./static/media/spinner.ffc0b699.svg",
-    "static/media/twitter.png": "./static/media/twitter.3f6bd041.png",
     "static/media/walletConnectIcon.svg": "./static/media/walletConnectIcon.9da52dbf.svg",
     "static/media/x.svg": "./static/media/x.93df88f8.svg"
   },
@@ -57,6 +53,6 @@
     "static/js/runtime-main.6424fa90.js",
     "static/css/2.5aa401b8.chunk.css",
     "static/js/2.d979dc11.chunk.js",
-    "static/js/main.d9c063e0.chunk.js"
+    "static/js/main.571ddc2c.chunk.js"
   ]
 }

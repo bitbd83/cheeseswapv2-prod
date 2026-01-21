@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6fa5b7c9f727bbcf826fdbdd04e05320",
+    "revision": "5298f7ea4722f320e1fe008c26bce4ea",
     "url": "./index.html"
   },
   {
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/9.476972db.chunk.js"
   },
   {
-    "revision": "b510d48db2298669af4a",
-    "url": "./static/js/main.d9c063e0.chunk.js"
+    "revision": "f654e079a5b5e292474b",
+    "url": "./static/js/main.571ddc2c.chunk.js"
   },
   {
     "revision": "804c799875d4787a0843",
@@ -268,10 +268,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/coinbaseWalletIcon.0d3ecc8a.svg"
   },
   {
-    "revision": "18a34a38760dcc3e435e0e44c43c82c2",
-    "url": "./static/media/discord.18a34a38.png"
-  },
-  {
     "revision": "7ada11151c6d512193b97e79307eaad5",
     "url": "./static/media/dropdown-blue.7ada1115.svg"
   },
@@ -284,20 +280,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/dropup-blue.f545db69.svg"
   },
   {
-    "revision": "7e0ef7689267434b54dfab7de1a6ec42",
-    "url": "./static/media/email.7e0ef768.png"
-  },
-  {
-    "revision": "96dbea584aea6547983dac9fef1877d0",
-    "url": "./static/media/fantomWallet.96dbea58.png"
+    "revision": "7a34eb8125579b92e9e60aee5af503db",
+    "url": "./static/media/injected.7a34eb81.png"
   },
   {
     "revision": "9d34ded541cc26de49c2dcbf08ba761e",
     "url": "./static/media/injected.9d34ded5.svg"
-  },
-  {
-    "revision": "e164eed80f7c64de383b64fa4e6d83b3",
-    "url": "./static/media/injected.e164eed8.png"
   },
   {
     "revision": "8cd2ed477b2484f481e9d25f56c9a9d3",
@@ -338,10 +326,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ffc0b69920ac716ff1b1d7a024ea0705",
     "url": "./static/media/spinner.ffc0b699.svg"
-  },
-  {
-    "revision": "3f6bd04189b35cab1da57d07d19ac8ad",
-    "url": "./static/media/twitter.3f6bd041.png"
   },
   {
     "revision": "9da52dbf79c2ee557ad860f11b9be474",
