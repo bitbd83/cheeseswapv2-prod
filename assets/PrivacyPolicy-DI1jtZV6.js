@@ -1,4 +1,4 @@
-import{j as r,q as t}from"./index-NoqJLJW8.js";const p=t.main`
+import{j as r,q as t}from"./index-_vjmckJg.js";const p=t.main`
   width: min(1120px, 100%);
   padding: 56px 24px 120px;
   margin: 0 auto;

@@ -1,4 +1,4 @@
-import{r as t,j as r,q as o}from"./index-NoqJLJW8.js";const i="https://app.debridge.com/r/32773",n=o.div`
+import{r as t,j as r,q as o}from"./index-_vjmckJg.js";const i="https://app.debridge.com/r/32773",n=o.div`
   display: flex;
   flex-direction: column;
   align-items: center;
